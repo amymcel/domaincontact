@@ -1,0 +1,59 @@
+{
+    "address1": {
+        "value": "One Microsoft Way",
+        "required": true
+    },
+    "address2": {
+        "value": "Unit/Apt",
+        "required": false
+    },
+    "city": {
+        "value": "Redmond",
+        "required": true
+    },
+    "country": {
+        "value": "US",
+        "required": true,
+        "options": []   
+    },
+    "postal_code": {
+        "value": "98052",
+        "required": true  
+    },
+    "state": {
+        "value": "WA",
+        "required": true
+    },
+    "email": {
+        "value": "wellman.david@outlook.com",
+        "required": true  
+    },
+    "fax": {
+        "value": "+1.0000000000",
+        "required": false   
+    },
+    "job_title": {
+        "value": "Job title",
+        "required": false  
+    },
+    "name_first": {
+        "value": "David",
+        "required": true  
+    },
+    "name_last": {
+        "value": "Wellman",
+        "required": true  
+    },
+    "name_middle": {
+        "value": "Middle name",
+        "required": false
+    },
+    "organization": {
+        "value": "Organization",
+        "required": false
+    },
+    "phone": {
+        "value": "+1.6159245636",
+        "required": true   
+    }
+}
